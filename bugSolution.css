@@ -1,0 +1,8 @@
+/* bugSolution.css */
+
+@media (min-width: calc(max(0, 100vw - 100px))) {
+  /* Styles to be applied when the viewport width is greater than 100px */
+  body {
+    background-color: lightblue;
+  }
+} 
